@@ -1,5 +1,9 @@
 .DS_Store
 node_modules/
-dist/
+src/
 npm-debug.log
 yarn-error.log
+package.json
+README.md
+webpack.config.js
+element.css
