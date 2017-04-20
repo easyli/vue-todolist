@@ -13,6 +13,14 @@
 
 欢迎提 issue
 
+## 打包&&运行
+
+```bash
+## 打包
+npm run build
+## 运行
+npm run dev
+```
 
 ## 预览图
 
